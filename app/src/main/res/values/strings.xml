@@ -1,0 +1,157 @@
+<resources>
+    <string name="app_name">Guwahati Tour Guide</string>
+
+    <!-- Tabs -->
+    <string name="hotel">Hotels</string>
+    <string name="places_to_visit">Places To Visit</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="shopping">Shopping</string>
+
+
+    <!--Hotels (name) -->
+    <string name="hotel_radisson_blue">Radisson Blue</string>
+    <string name="hotel_brahmaputra_ashok">Brahmaputra Ashok</string>
+    <string name="hotel_dynasty">Hotel Dynasty</string>
+    <string name="hotel_the_lily">The lily</string>
+
+    <!--Hotels (address) -->
+    <string name="hotel_radisson_blue_address">
+        Address: National Highway 37, Gotanagar, Guwahati, Assam 781033
+    </string>
+    <string name="hotel_brahmaputra_ashok_address">
+       Address: M.G. Road 781001 Guwahati India
+    </string>
+    <string name="hotel_dynasty_address">
+        Address: SS Road, Lakhtokia, Guwahati, Assam 781001
+    </string>
+    <string name="hotel_the_lily_address">
+        Address: G.S. Road, Six Mile, Opp. Directorate Of Agriculture Office, Khanapara, Guwahati, Assam 781022
+    </string>
+
+    <!--Hotels (description) -->
+    <string name="hotel_radisson_blue_description">
+        Set in a tranquil sector of Assam, the elegant Radisson Blu Hotel Guwahati provides hotel guests with stellar amenities and a restful location outside of the city bustle.
+    </string>
+    <string name="hotel_brahmaputra_ashok_description">
+        Offering Wi-Fi facility to its guests, Hotel Brahmaputra Ashok is a popular hotel located near river Brahmaputra. Surrounded by lush green gardens, this hotel is 22 km from Lokpriya Gopinath Bordoloi International Airport.This hotel offers 48 spacious rooms for accommodation.
+    </string>
+    <string name="hotel_dynasty_description">
+        Situated on the banks of river Brahamputra, in the business centre of Guwahati, Assam, Hotel Dynasty is a 4 star luxurious and one of the best hotels of Northeast region, serving the guest from all over the globe for past 21 years.
+    </string>
+    <string name="hotel_the_lily_description">
+         Located in Guwahati, The Lily Hotel features a bar and free WiFi.
+        This 4-star inn offers a 24-hour front desk and room service.
+    </string>
+
+
+    <!--Places to Visit(name) -->
+    <string name="place_kamakhya_temple">Kamakhya Temple</string>
+    <string name="place_umananda_temple">Umananda Temple</string>
+    <string name="place_assam_state_museum">Assam State Museum</string>
+    <string name="place_guwahati_planetarium">Guwahati Planetarium</string>
+
+    <!--Places to Visit(address) -->
+    <string name="place_kamakhya_temple_address">
+        Address: Kamakhya, Guwahati, Assam 781010
+    </string>
+    <string name="place_umananda_temple_address">
+       Address:  Peacock Island, North Guwahati, Guwahati, Kamrup, Assam 781030
+    </string>
+    <string name="place_assam_state_museum_address">
+        Address: Gopinath Bordoloi Road, Near Dighalipukhuri Park, Ambari, Guwahati, Assam 781001
+    </string>
+    <string name="place_guwahati_planetarium_address">
+        Address: M G Road, Near Gauhati High Court, Latasil, Uzan Bazar, Guwahati, Assam 781001
+    </string>
+
+    <!--Places to Visit(description) -->
+    <string name="place_kamakhya_temple_description">
+        Maa Kamakhya or Kameswari is the renowned Goddess of Desire whose famous shrine is located in the heart of Nilachala Hill situated in the western part of Guwahati, the Capital City of the state of Asom in North East India. Maa Kamakhya Devalaya is considered most sacred and oldest of the 51 Shakti Peethas on earth. It is the centrepiece of widely practiced, powerful Tantrik Shaktism cult in India.
+    </string>
+    <string name="place_umananda_temple_description">
+        The Umananda Temple is located in the small Peacock Island amidst the mighty Brahmaputra.
+        This quiet place of worship is named after and dedicated to Lord Shiva.
+        The Peacock Island is the smallest inhabited riverine in the world and possibly one of the most beautiful too.
+        The Umananda temple is nestled in the laps of this serene island whose shores are washed by the mighty Brahmaputras.
+    </string>
+    <string name="place_assam_state_museum_description">
+        Assam State Museum, also known as Assam Rajyik State Museum, is located in the heart of Guwahati city in Dighali Pukhuri tank. It is one of the most famous museums of the North- East India that gives insights into the rich culture of ancient history and as well as the modern history of North-East India.
+        Its prominent location in the center of the city attracts a large number of history buffs and tourists visiting Guwahati.
+    </string>
+    <string name="place_guwahati_planetarium_description">
+        The Guwahati Planetarium, located on MG Road is an excellent destination for the universe lovers.
+        The magic of the infinitely expanding universe is explained in such detail and is yet beyond anybody's understanding.
+    </string>
+
+
+    <!--Restaurants (name) -->
+    <string name="restr_khorika">Khorika</string>
+    <string name="restr_parampara_paradise">Parampara Paradise</string>
+    <string name="restr_the_tandoor">The Tandoor</string>
+    <string name="restr_machaan">Machaan</string>
+
+    <!--Restaurants (address) -->
+    <string name="restr_khorika_address">
+        Address: 1st Floor, Kamal C Plaza, Guwahati - Shillong Road, Guwahati, Assam 781007
+    </string>
+    <string name="restr_parampara_paradise_address">
+        Address: Maniram Dewan Rd, Silpukhuri, Krishna Nagar, Chandmari, Guwahati, Assam 781003
+    </string>
+    <string name="restr_the_tandoor_address">
+        Address: Dr BK Kakati Rd, Sharabhati Chariali, Ulubari, Guwahati, Assam 781001
+    </string>
+    <string name="restr_machaan_address">
+        Address: Greenwood Resort, Madhab Nagar, Khanapara, South Sarania, Lachit Nagar, GS Road, Assam 781005
+    </string>
+
+    <!--Restaurants (description) -->
+    <string name="restr_khorika_description">
+        Khorikaa presents a mixture of different indigenous style with considerable regional variations and with some external influences coming with a twist of modernisation.
+        Khorikaa is characterized by the mixture of race and tribal communities but keeping in mind both its culture and taste.
+    </string>
+    <string name="restr_parampara_paradise_description">
+        Parampara Paradise is one of the earliest restaurants that opened in Guwahati.
+        The restaurant has quite a following thanks to its delicious Assamese dishes.
+        The restaurant serves Assamese ‘thalis’ (vegetarian and non-vegetarian) which has an assortment of most of the Assamese cuisines.
+        The service is prompt and the ambience is pleasing
+    </string>
+    <string name="restr_the_tandoor_description">
+        Inside the stately Dynasty hotel, this stylish restaurant has tasty North Indian dishes, served by waiters in Mughal uniforms as gentle Indian music plays in the background
+    </string>
+    <string name="restr_machaan_description">
+        Machaan is chain of restaurants all across India, originating in Mumbai.
+        It is a multi-speciality restaurant in the Dona Planet mall in Guwahati.
+        The decor of the restaurant is quite creative indeed.
+        Decorated replicating a jungle, you will actually feel like having your meal sitting inside a jungle.
+        The delicious delicacies are cooked to perfection. The wide menu including food of all cuisines are offered here.
+    </string>
+
+
+    <!--Shopping (place name) -->
+    <string name="shopping_big_bazaar">Big Bazaar</string>
+    <string name="shopping_sohum_shoppe">Sohum Shoppe</string>
+    <string name="shopping_bhrigu_market">Bhrigu Market</string>
+    <string name="shopping_jayanagar_bazaar">Jayanagar Bazaar</string>
+
+    <!--Shopping (place address) -->
+    <string name="shopping_big_bazaar_address">118/1, City Square Mall, GS Rd, Bhangagarh, Guwahati, Assam 781005</string>
+    <string name="shopping_sohum_shoppe_address">Shoppers Point, Hem Baruah Rd, Lakhtokia, Fancy Bazaar, Guwahati, Assam 781001</string>
+    <string name="shopping_bhrigu_market_address">Dr. R.P. Road, Bhrigu Market, Ganeshguri, Guwahati, Assam 781006</string>
+    <string name="shopping_jayanagar_bazaar_address">Beltola Jayanagar Rd, Jayanagar Chariali, Saurabh Nagar, Beltola, Guwahati, Assam 781038</string>
+
+    <!--Shopping (place description) -->
+    <string name="shopping_big_bazaar_description">
+        Big Bazaar is a retail store that operates as a chain of hypermarkets, discount department stores, and grocery stores.
+    </string>
+    <string name="shopping_sohum_shoppe_description">
+        Sohum Shoppe is a mega retail shopping chain in the North-East region and has three outlets in Guwahati.
+        The malls have ample parking space and are all positioned in prime locales.
+    </string>
+    <string name="shopping_bhrigu_market_description">
+        Bhrigu Market is located in Ganeshguri.
+    </string>
+    <string name="shopping_jayanagar_bazaar_description">
+        Jayanagar Bazaar is located in Beltola.
+    </string>
+
+</resources>
